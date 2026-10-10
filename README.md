@@ -1,4 +1,4 @@
-# Hi, I'm Tehreem! 👋
+# Hi, I'm Tehreem! 
 
  BS Computer Science Student  
  Aspiring Software Developer  
