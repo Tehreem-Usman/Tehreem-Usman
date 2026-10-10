@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Tehreem! 👋
 
-<!--
-**Tehreem-Usman/Tehreem-Usman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student  
+💻 Aspiring Software Developer  
+🌱 Currently learning C++ and Git/GitHub  
+🚀 Developer Intern at Robitary
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student at the beginning of my programming journey. I'm currently strengthening my programming fundamentals, learning to use Git and GitHub, and exploring software development through hands-on practice.
+
+I'm excited to learn new technologies, work on team projects, and grow as a developer.
+
+## Currently Learning
+
+- C++ Programming
+- Git and GitHub
+- Web Development Fundamentals
+
+## Projects
+
+- **FinTrack** — My team's capstone project at Robitary.
+
+## Goals
+
+- Build a strong foundation in programming.
+- Learn web development from scratch.
+- Learn Full-Stack Development.
+- Build real-world projects and gain practical experience.
+- Continuously improve my problem-solving skills.
+
+Thanks for visiting my profile! 😊
