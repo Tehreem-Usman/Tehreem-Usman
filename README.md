@@ -1,9 +1,9 @@
 # Hi, I'm Tehreem! 👋
 
-🎓 BS Computer Science Student  
-💻 Aspiring Software Developer  
-🌱 Currently learning C++ and Git/GitHub  
-🚀 Developer Intern at Robitary
+ BS Computer Science Student  
+ Aspiring Software Developer  
+ Currently learning C++ and Git/GitHub  
+ Developer Intern at Robitary
 
 ## About Me
 
